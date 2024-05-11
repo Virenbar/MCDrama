@@ -13,13 +13,13 @@ def read_array(name, version)
   $parsed["#{version}:#{name}"] ||= if version == current_version
                                       $fetcher.open("data/#{name}").read.split("\n")
                                     else
-                                      open("https://raw.githubusercontent.com/Gaelan/MCDrama/#{version}/data/#{name}").read.split("\n")
+                                      open("https://raw.githubusercontent.com/Virenbar/MCDrama/#{version}/data/#{name}").read.split("\n")
                                     end
 end
 
 def current_version
   $current_version ||= begin
-                         ENV.fetch('HEROKU_SLUG_COMMIT')
+                         ENV.fetch('SLUG_COMMIT')
                        rescue
                          `git rev-parse HEAD`.strip
                        end[0..5]
