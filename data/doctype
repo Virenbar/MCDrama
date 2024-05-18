@@ -1,5 +1,7 @@
 cfg
 json
+json5
+jsonnet
 xml
 java
 txt
@@ -7,3 +9,9 @@ png
 jpg
 gif
 toml
+hocon
+ini
+zfg
+ixl
+yaml
+properties

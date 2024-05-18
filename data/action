@@ -3,15 +3,44 @@ add %feature to their mod
 add a config option to their mod for %feature
 change their Twitter profile image to %image
 create a fork of %mod
+create a fork of %modnameone %modnametwo
 disappear off the internet, never to be seen again
 port their mod to %runtime
-release their new mod, %modname
+release their new mod, %mod
+release their new mod, %modnameone %modnametwo
 remove %feature from their mod
 rewrite their mod in %language
 actually contribute to the community for once
 stop watching anime long enough to actually code something
+stop watching %animeseries long enough to actually code something
 rewrite %mod in %language for real this time
 sell their mod to %platform for exclusive use
 threaten to embrace %badthing
 threaten to add %badthing to all their mods if %feature is added to %mod
 relicense their mods under %license
+rewrite %mod to depend on %mod
+rewrite %mod to depend on %modnameone %modnametwo
+write all of their mods in %language
+move all their mods to %hostingsite
+threaten to embrace %hostingsite
+threaten to move their mods to %hostingsite if %feature isn't added to %mod
+threaten to move their mods to %hostingsite if %feature isn't added to %modnameone %modnametwo
+JiJ %mod in their mod
+create a mod named %modnameone %modnametwo
+use an MCP name in their mod
+use %alternatemapping for their new mod, %modnameone %modnametwo
+create a new %license set of minecraft mappings
+create a new %license set of minecraft mappings, which controversially puts half the game in the %package package
+turn their latest mod %modnameone %modnametwo into a %license standalone %nonjvmlang game
+watch %animeseries
+watch %animeseries with %person
+block %person after learning they are a fan of %animeseries
+block %person, since %drama
+remove %mod from the modlist of their upcoming modpack, %modnameone %modnametwo, after discovering it was inspired by %animeseries
+remove %mod from their modpack. why? %drama
+bikeshedded api PR for %feature
+meta-mutes %person because they %action
+%person makes a false statement of fact
+threaten to remove %person from their mod's commit history
+fork %loader as %newloader
+drop support for %loader in favor of %newloader%, their fork

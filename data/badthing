@@ -2,9 +2,11 @@ assets stolen from %mod
 assets stolen from %person
 BSODs
 bugs
+bikeshed
 closed source code
 copyright violations
 chunk errors
+codecs
 crashes
 discourse
 drama
@@ -31,3 +33,35 @@ random OpenGL matrix transforms
 ore dictionary corruption
 code stolen from %mod
 code stolen from %person
+@Overwrite
+using %alternatemapping
+DataFixerUpper
+Blaze3D
+using proguard
+using proguARRd
+bad commit messages
+bad world gen
+string concatenation abuse
+no updates
+not naming every commit "e"
+CurseForge deleting all their projects
+gh issuespam
+landmastered
+use of incompatibly-licensed code from %mod
+use of incompatibly-licensed code
+requiring OptiFine as a dependency
+UUID-banning %person
+intentionally breaking %mod
+forking %loader as %newloader
+forking %alternatemapping
+datagen
+Internal Server Errors
+harassing %person to update their mods
+modding %oldversion in current year
+harassing %person to downgrade their mods to %oldversion
+HD Textures
+blaming %person for drama
+remapping their mod to %alternatemapping
+selling NFTs
+using ChatGPT to write their mods
+having an RCE exploit
