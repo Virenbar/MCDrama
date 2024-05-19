@@ -30,13 +30,11 @@ create a mod named %modnameone %modnametwo
 use an MCP name in their mod
 use %alternatemapping for their new mod, %modnameone %modnametwo
 create a new %license set of minecraft mappings
-create a new %license set of minecraft mappings, which controversially puts half the game in the %package package
 turn their latest mod %modnameone %modnametwo into a %license standalone %nonjvmlang game
 watch %animeseries
 watch %animeseries with %person
 block %person after learning they are a fan of %animeseries
 block %person, since %drama
-remove %mod from the modlist of their upcoming modpack, %modnameone %modnametwo, after discovering it was inspired by %animeseries
 remove %mod from their modpack. why? %drama
 bikeshedded api PR for %feature
 meta-mutes %person because they %action
